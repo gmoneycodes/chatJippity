@@ -1,4 +1,3 @@
-# chatJippity
 ![logo](logo.png)
 
 Family client for calling ChatGPT API. 
